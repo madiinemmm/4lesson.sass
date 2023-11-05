@@ -1,0 +1,319 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1920px;
+  width: 100%;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  padding: 20px 0;
+  align-items: center;
+  margin-left: 259px;
+}
+
+.item {
+  padding: 16px;
+}
+
+.item a {
+  align-items: center;
+  color: #575859;
+  font-weight: 600;
+  line-height: 14.872px;
+  text-decoration: none;
+}
+
+.txt1 {
+  margin-left: 111px;
+}
+
+.navbar {
+  margin-left: 161px;
+}
+
+.txt2 {
+  margin-left: 161px;
+}
+
+.btn {
+  width: 170px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 36px;
+  background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+  box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.2);
+  flex-shrink: 0;
+  color: #FFF;
+  text-align: center;
+  font-family: Gilroy;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+.txt3 {
+  color: #ffffff;
+  font-family: Gilroy;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 14px;
+}
+
+.txt3 {
+  color: #FFF;
+  font-family: Gilroy;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 14px;
+  margin-left: 270px;
+  padding-top: 45px;
+}
+
+.txt4 {
+  color: #ffffff;
+  font-family: Gilroy;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 60px;
+  margin-left: 270px;
+  margin-top: 29px;
+}
+
+.card {
+  width: 1800px;
+  height: 210px;
+  flex-shrink: 0;
+  border-radius: 36px;
+  background: linear-gradient(80deg, #5B52A3 1.08%, #40B8EA 100%);
+}
+
+.txt5 {
+  color: #1F2428;
+  font-family: Gilroy;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+  margin-top: 40px;
+}
+
+.txt6 {
+  color: #1F2428;
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 36px;
+  margin-top: 7px;
+}
+
+.btn__side {
+  width: 180px;
+  height: 56px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: #41B7E9;
+  color: #FFF;
+  text-align: center;
+  font-family: Gilroy;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+  border: none;
+  margin-top: 22px;
+}
+
+.card1 {
+  margin-left: 260px;
+}
+
+.wrapper {
+  display: flex;
+  gap: 58px;
+  margin-top: 106px;
+}
+
+.txt7 {
+  color: #1F2428;
+  font-family: Gilroy;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px;
+  margin-top: 50px;
+}
+
+.txt9 {
+  color: #1F2428;
+  font-family: Gilroy;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 56px;
+  margin-top: 160px;
+}
+
+.txt10 {
+  color: #1F2428;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 36px;
+  margin-top: 20px;
+}
+
+.carousel3 {
+  width: 1600px;
+  height: 270px;
+  border-radius: 16px;
+  background: #FFF;
+  box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.1);
+  padding: 46px 36px;
+}
+
+.txt11 {
+  color: #222;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+.card3 {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.txt12 {
+  color: #222;
+  font-family: Gilroy;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 16px;
+}
+
+.txt13 {
+  width: 246px;
+  height: 1px;
+  flex-shrink: 0;
+  background: #222;
+  margin-top: 20px;
+}
+
+.btn__side3 {
+  width: 240px;
+  height: 66px;
+  flex-shrink: 0;
+  border-radius: 36px;
+  background: linear-gradient(90deg, #00C97B 0%, #00D981 96.96%);
+  box-shadow: 0px 4px 4px 0px rgba(1, 203, 124, 0.2);
+  color: var(--1, #FFF);
+  text-align: center;
+  font-family: Gilroy;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px;
+  margin-top: 32px;
+  cursor: pointer;
+  border: none;
+}
+
+.cards {
+  display: flex;
+  margin-left: 50px;
+}
+
+.card9 {
+  display: flex;
+}
+
+.txt14 {
+  color: #1F2428;
+  font-family: Gilroy;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 56px;
+  margin-top: 80px;
+}
+
+.txt15 {
+  color: #1F2428;
+  font-family: Gilroy;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+  margin-left: 27px;
+  margin-top: 20px;
+}
+
+.txt16 {
+  color: #222;
+  font-family: Gilroy;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.txt17 {
+  color: #222;
+  font-family: Gilroy;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+}
+
+.card5 {
+  display: flex;
+}
+
+.card6 {
+  width: 1600px;
+  height: 100%;
+  border-radius: 16px;
+  background: #FFF;
+  box-shadow: 0px 0px 70px 0px rgba(138, 138, 138, 0.1);
+  padding: 10px 29px;
+  display: flex;
+  align-items: center;
+  display: flex;
+  margin-top: 20px;
+}
+
+.card7 {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-left: 523px;
+  gap: 92px;
+}
+
+.card8 {
+  display: flex;
+}
+
+.icon {
+  margin-left: 7px;
+}/*# sourceMappingURL=main.css.map */
